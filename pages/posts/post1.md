@@ -30,9 +30,7 @@ Through High School, I dipped my toe in just about every social network out ther
 
 I didn't really express any interest in figuring out how the internet worked until I graduated from High School. As a college freshman, I landed on 'kind of thinking that maybe doing something which now would resemble front end web development' as my Major. At the time, there was _oddly_ a very strong emphasis on freshmen needing to have a strong understanding of Math in order to get accepted into the "Computer Science" program at Winona State University in Winona, Minnesota.
 
-I don't think that we had a really great way of 'teaching' web development back in 2012. My first experience with 'coding' was in my 7AM 'Introduction to Java' freshman year CompSci class. Java is great if you want to write lower level computer applications (at the time, the most used Java App in the world was probably Minecraft), but isn't exactly what we were using to write the web back then.
-
-Java, in my opinion, is also much harder to learn as someone's first language. Get that `public static void main` shit out of here.
+I don't think that we had a really great way of 'teaching' web development back in 2012. My first experience with 'coding' was in my 7AM 'Introduction to Java' freshman year CompSci class. Java is great if you want to write lower level computer applications (at the time, the most used Java App in the world was probably Minecraft), but isn't exactly what we were using to write the web in 2012.
 
 ## And he never touched another line of Java again
 
